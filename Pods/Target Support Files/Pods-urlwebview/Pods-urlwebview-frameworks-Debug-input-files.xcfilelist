@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-urlwebview/Pods-urlwebview-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/appstore-card-transition/AppstoreTransition.framework
